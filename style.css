@@ -173,6 +173,8 @@ abbr {
 }
 
 aside {
+  width: 700px;
+  margin: auto;
   box-shadow: 3px 3px 8px rgba(0, 0, 0, 0.301);
   border-radius: 10px;
   padding: 10px;
@@ -188,6 +190,7 @@ aside > h3 {
 }
 
 aside > ul {
+  text-align: justify;
   font-weight: bold;
   list-style-position: inside;
   columns: 2;
